@@ -210,7 +210,7 @@ local function registerClass(self)
     self:RegisterAura("predatory_strikes", 0, 69369, "predatory_swiftness", "Top", 1, 255, 255, 255, true, predatoryStrikesSpells);
 
     -- Nature's Grace
-    self:RegisterAura("natures_grace", 0, 16886, "serendipity", "Top", 1, 255, 255, 255, true);
+    self:RegisterAura("natures_grace", 0, 16886, "fury_of_stormrage", "Top", 1, 255, 255, 255, true);
 end
 
 local function loadOptions(self)
